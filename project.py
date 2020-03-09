@@ -1,4 +1,4 @@
-# Demet Çalışkan 041801127 02.02.2020
+# Demet Çalışkan Mef University 02.02.2020
 # This program takes an input image from the user and detects the characters in it
 # then compare the character with the original image characters that the program already has.
 # It does that with the help of moment features. 
